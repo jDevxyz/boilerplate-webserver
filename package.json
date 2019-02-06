@@ -1,0 +1,23 @@
+{
+  "name": "boilerplate-webserver",
+  "version": "0.0.1-SNAPSHOT",
+  "description": "A boilerplate for webserver, up and on at instant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "webserver",
+    "boilerplate",
+    "nodejs",
+    "http"
+  ],
+  "author": "Riichi_Rusdiana#6815",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  }
+}
